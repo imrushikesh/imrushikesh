@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**imrushikesh/imrushikesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [*Rushikesh Patil.*](https://github.com/imrushikesh)
 
-Here are some ideas to get you started:
+## Web Developer 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### *Hi*  👋
+
+`I am Rushikesh Patil. 🎓 E & TC Engineer. I Just ❤️ Websites. `  
+
+Website development is fun, I started to learn Web development a year ago!🤯   
+
+I always eager to learn new Things. So Far I Learned Following **Web Technologies** :
+
+```
+
+                ✔️ HTML
+                ✔️ CSS
+                ✔️ Bootstrap
+                ✔️ Javascript
+                ✔️ PHP
+                ✔️ WordPress
+                ✔️ SQL
+
+        Other Technologies : 
+                  
+                ✔️ C         ✔️ C++  
+                ✔️ Python    ✔️ Java
+
+```
+
+>I have done 💻 *Web Development Internship*, I am looking For any exciting Project in web Development.🤝
+
+  
+- 📫 Open to Collaborate, Contact me - [*Github*](https://github.com/imrushikesh) or <a href="mailto:rushipatil241297@gmail.com">📧 *Gmail.* </a>
+
+- website [🖱️🌏 codecoffeeconsistency.](http://codecoffeeconsistency.com)
