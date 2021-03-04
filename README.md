@@ -28,7 +28,7 @@
 
 
   
-<p align="center">📫 Open to Collaborate, Contact me - [*Github*](https://github.com/imrushikesh) or <a href="mailto:rushipatil241297@gmail.com">📧 *Gmail.* </a></p>
+<p align="center">📫 Open to Collaborate, Contact me ⬇️</p>
 
 
 <p align="center">
