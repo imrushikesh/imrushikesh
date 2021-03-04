@@ -13,33 +13,23 @@
 <p align="center"> Web Developer 👨‍💻</p>
 <p align="center">🎓 E & TC Engineer.</p>
 
-<p align="center"> Website development is fun, I started to learn Web development a year ago!🤯  </p>
+<p align="center"><b><i> Front End Developer  </i></b></p>
 
-<p align="center"> I always eager to learn new Things. So Far I Learned Following **Web Technologies** :</p>
-
-```
-
-                ✔️ HTML
-                ✔️ CSS
-                ✔️ Bootstrap
-                ✔️ Javascript
-                ✔️ PHP
-                ✔️ WordPress
-                ✔️ SQL
-
-        Other Technologies : 
-                  
-                ✔️ C         ✔️ C++  
-                ✔️ Python    ✔️ Java
+<p align="center"> I always eager to learn new Things. Skillset : </p>
 
 ```
 
->I have done 💻 *Web Development Internship*, I am looking For any exciting Project in web Development.🤝
+                          ✔️ HTML                     ✔️ CSS                     ✔️ Javascript 
+                          ✔️ Bootstrap                ✔️ WordPress               ✔️ Illustrator & Photoshop
+                          ✔️ C                        ✔️ C++  
+                          
+
+```
+
 
   
 <p align="center">📫 Open to Collaborate, Contact me - [*Github*](https://github.com/imrushikesh) or <a href="mailto:rushipatil241297@gmail.com">📧 *Gmail.* </a></p>
 
-<p align="center"> website [🖱️🌏 codecoffeeconsistency.](http://codecoffeeconsistency.com)</p>
 
 <p align="center">
   <h2 align="center"><i>😍 Thank You 🙏 </i></h2> 
