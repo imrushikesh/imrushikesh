@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center"><b>Hi there, I'm <a href="https://www.github.com/imrushikesh">Rushikesh!</a></b>
   <img src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif" width = "80px" height = "50px"/>
-   <a  href="https://www.linkedin.com/in/rushikesh-patil-1a3937189"><img  src="https://icons8.com/vue-static/landings/animated-icons-new/icons/material-filled/linkedin-bounce/linkedin-bounce.gif" width = "50px" height = "50px"/></a>
+<!--    <a  href="https://www.linkedin.com/in/rushikesh-patil-1a3937189"><img  src="https://icons8.com/vue-static/landings/animated-icons-new/icons/material-filled/linkedin-bounce/linkedin-bounce.gif" width = "50px" height = "50px"/></a> -->
 <!--     <a href="mailto:"><img  src="https://icons8.com/vue-static/landings/animated-icons-new/icons/ios-glyph/open-letter/open-letter.gif" width = "50px" height = "50px"/></a> -->
   </h1>
 </p>
@@ -9,10 +9,10 @@
 
 
 
-<p align="center"> Developer 👨‍💻</p>
+<!-- <p align="center"> Developer 👨‍💻</p>
 <p align="center">🎓Engineer.</p>
-
-<!-- <p align="center"><b><i> Front End Developer  </i></b></p> -->
+<!--  -->
+<!-- <p align="center"><b><i> Front End Developer  </i></b></p> --> -->
 
 <!-- <p align="center"> I always eager to learn new Things. Skillset : </p>
 
