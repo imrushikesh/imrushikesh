@@ -6,7 +6,7 @@
   </h1>
 </p>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
 
 <!-- 
 <p align="center"> Developer 👨‍💻</p>
