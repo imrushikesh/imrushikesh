@@ -17,7 +17,7 @@
 <p align="center">
  <h1 align="center">
   
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
+![](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![](https://img.shields.io/badge/focusOn-Programming-green)
  </h1>
