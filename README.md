@@ -1,6 +1,6 @@
 <p align="center">
  
-   <h1 align="center">Hi , I'm Rushikesh Patil</h1>  
+   <h1 align="center">Hi , I'm Rushikesh Patil  <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
  
  <h3 align="center">Software Engineer</h3>
  
@@ -8,13 +8,19 @@
 </p>
 
 
-
-
+<img src="/profile.png">
 
 
 ***
-![](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
 
+<p align="center">
+ <h1 align="center">
+  
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![](https://img.shields.io/badge/focusOn-Programming-green)
+ </h1>
+</p>
 
 
 
