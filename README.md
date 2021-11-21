@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "150px" height = "100px">
 
-   <h1 align="center">Hi , I'm Rushikesh Patil      <img  src="https://media.giphy.com/media/l4KhUsTvaxtBP3fzi/giphy.gif" width="200px" height="100px"></h1> 
+   <h1 align="center">Hi , I'm Rushikesh Patil      <img  src="https://media.giphy.com/media/l4KhUsTvaxtBP3fzi/giphy.gif" width="250px" height="100px"></h1> 
  
  <h3 align="center">Software Engineer</h3>
  
