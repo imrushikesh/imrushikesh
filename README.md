@@ -1,10 +1,13 @@
 <p align="center">
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "150px" height = "100px">
 
-   <h1 align="center">Hi , I'm Rushikesh Patil      <img  src="https://media.giphy.com/media/l4KhUsTvaxtBP3fzi/giphy.gif" width="250px" height="100px"></h1> 
+   <h1 align="center">Hi , I'm Rushikesh Patil  </h1> 
+   
  
- <h3 align="center">Software Engineer</h3>
+ <h2 align="center">Software Engineer<img  src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width = "130px" height = "85px"> </h2>
  
+ ***
+
 
 </p>
 
