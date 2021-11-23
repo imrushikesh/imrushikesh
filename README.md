@@ -21,7 +21,6 @@
  <h1 align="center">
   
 ![](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
-![GitHub last commit](https://img.shields.io/github/last-commit/imrushikesh/imrushikesh?label=Updated)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![](https://img.shields.io/badge/focusOn-Programming-green)
     
