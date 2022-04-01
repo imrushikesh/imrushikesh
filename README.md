@@ -1,34 +1,29 @@
 <p align="center">
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "150px" height = "100px">
-
+   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width = "150px" height = "100px">
    <h1 align="center">Hi , I'm Rushikesh Patil  </h1> 
+    <h2 align="center">Software Engineer  </h2> 
+</p>
+
+
+## About Me :
+
+```JSON
+{
+   "name": "Rushikesh Patil",
+   "age": 24,
+   "education":"B.E. E & TC (2019) ",
+   "occupation":"Software Engineer",
+   "skills" : [
+       "Angular",
+       "React",
+       "Dot net",
+       "Java",
+       "SQL" ],
    
- 
- <h2 align="center">Software Engineer<img  src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width = "130px" height = "85px"> </h2>
- 
- ***
+}
 
+```
 
-</p>
-
-
-<img src="/profile.png">
-
-
-***
-
-<p align="center">
- <h1 align="center">
-  
-![](https://visitor-badge.glitch.me/badge?page_id=imrushikesh.imrushikesh)
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![](https://img.shields.io/badge/focusOn-Programming-green)
-    
- </h1>
-</p>
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ***
@@ -40,7 +35,5 @@
 
   
 ***
-  
- </p>
-
+</p>
 </p>
