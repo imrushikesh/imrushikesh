@@ -15,10 +15,9 @@
    "occupation":"Software Engineer",
    "skills" : [
        "Angular",
-       "React",
-       "Dot net",
-       "Java",
-       "SQL" ],
+       "Dot Net MVC",
+       "Dot Net Core",
+       "MS-SQL" ],
    
 }
 
