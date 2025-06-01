@@ -10,9 +10,7 @@
 ```JSON
 {
    "name": "Rushikesh Patil",
-   "age": 26,
-   "education":"B.E. E & TC (2019) ",
-   "occupation":"Software Engineer",
+   "occupation":"Full Stack Developer",
    "skills" : [
        "React",
         "Web Api",
